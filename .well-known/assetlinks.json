@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.bdbulca.besharf",
+      "sha256_cert_fingerprints": [
+        "B6:76:1A:07:CC:38:4A:EC:48:28:03:77:6F:4B:82:28:87:EA:9F:42:58:7E:DE:42:2E:47:73:80:21:5A:5B:17"
+      ]
+    }
+  }
+]
